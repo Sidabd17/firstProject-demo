@@ -1,2 +1,3 @@
 # firstProject-demo
-About My first Git Repositories
+About My first Git Repository
+Author - MD Sajid
